@@ -1,5 +1,4 @@
 ArgocdApplications:
-
   #=================================#
   #      Platform Core Apps         #
   #=================================#
@@ -11,7 +10,7 @@ ArgocdApplications:
     enabled: true
 
   backstage:
-    enabled: false
+    enabled: true
 
   #=================================#
   #      Data Services          #
