@@ -10,7 +10,7 @@ ArgocdApplications:
     enabled: true
 
   backstage:
-    enabled: true
+    enabled: false
 
   #=================================#
   #      Data Services          #
